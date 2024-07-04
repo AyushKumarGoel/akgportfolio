@@ -17,7 +17,7 @@ This portfolio is developed using HTML, CSS, and JavaScript. It includes section
 <br>
 <h2>Deployment</h2>
 <br>
-The portfolio is deployed and accessible at Ayush Kumar Goel's Portfolio.
+<p>The portfolio is deployed and accessible at <a href="https://akgportfolio.netlify.app/" target="_blank">Ayush Kumar Goel's Portfolio</a>.</p>
 <br>
 <h2>Technologies Used</h2>
 <li>HTML</li>
